@@ -11,7 +11,7 @@ A maven repository for https://github.com/PactifyLauncherExamples projects.
 <dependency>
   <groupId>nz.az-launcher</groupId>
   <artifactId>plsp-protocol</artifactId>
-  <version>20241229</version>
+  <version>20250107</version>
   <scope>compile</scope>
 </dependency>
 ```

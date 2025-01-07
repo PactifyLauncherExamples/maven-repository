@@ -3,12 +3,13 @@
   <groupId>nz.az-launcher</groupId>
   <artifactId>plsp-protocol</artifactId>
   <versioning>
-    <release>20241229</release>
+    <release>20250107</release>
     <versions>
       <version>20240425</version>
       <version>20240524</version>
       <version>20241229</version>
+      <version>20250107</version>
     </versions>
-    <lastUpdated>20241229204617</lastUpdated>
+    <lastUpdated>20250107160033</lastUpdated>
   </versioning>
 </metadata>
