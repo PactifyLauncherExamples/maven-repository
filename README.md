@@ -1,9 +1,9 @@
-A maven repository for https://github.com/PactifyLauncherExamples projects.
+A maven repository for https://github.com/az-examples projects.
 
 ```xml
 <repository>
-  <id>pactifylauncherexamples-repo</id>
-  <url>https://raw.githubusercontent.com/PactifyLauncherExamples/maven-repository/master/</url>
+  <id>az-examples-repo</id>
+  <url>https://raw.githubusercontent.com/az-examples/maven-repository/master/</url>
 </repository>
 ```
 
