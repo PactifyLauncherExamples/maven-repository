@@ -11,7 +11,7 @@ A maven repository for https://github.com/az-examples projects.
 <dependency>
   <groupId>nz.az-launcher</groupId>
   <artifactId>plsp-protocol</artifactId>
-  <version>20250107</version>
+  <version>20250111</version>
   <scope>compile</scope>
 </dependency>
 ```
